@@ -35,7 +35,7 @@ This repository contains practical assignments and implementations related to co
 
 | Lab | Concepts Covered |
 |-----|------------------|
-| Lab 01   | Command-line argument processing, character handling, standard input/output operations, lowercase-uppercase conversion, non-alphabetic character counting |
+| Lab   01   | Command-line argument processing, character handling, standard input/output operations, lowercase-uppercase conversion, non-alphabetic character counting |
 | Lab 02   | System calls, process creation using `fork()`, program execution using `exec()`, inter-process communication using pipes, process synchronization using `wait()`, file descriptor duplication using `dup()` and `dup2()` |
 | Lab 03   | Multithreading using POSIX threads, signal handling, alarms and process termination, `setjmp()` and `longjmp()`, timeout handling using signals, low-level I/O using `read()` and `write()` |
 | Lab 04   | CPU scheduling algorithms including Non-Preemptive SJF and Round Robin scheduling, Gantt chart generation, waiting time and turnaround time calculation |
