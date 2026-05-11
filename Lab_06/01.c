@@ -2,10 +2,10 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <fcntl.h>
-// #include <sys/mman.h>
+#include <sys/mman.h>
 #include <sys/stat.h>
-// #include <semaphore.h>
-// #include <sys/wait.h>
+#include <semaphore.h>
+#include <sys/wait.h>
 
 int main() {
 
