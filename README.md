@@ -35,15 +35,15 @@ This repository contains practical assignments and implementations related to co
 
 | Lab | Concepts Covered |
 |-----|------------------|
-| Lab 01 | Introduction to Operating Systems, Linux environment, basic system commands |
-| Lab 02 | Process creation, process control, `fork()`, `exec()`, process hierarchy |
-| Lab 03 | CPU scheduling algorithms and process scheduling techniques |
-| Lab 04 | Inter-process communication (IPC), pipes, shared memory |
-| Lab 05 | Process synchronization, semaphores, mutex locks |
-| Lab 06 | Deadlocks, deadlock prevention and avoidance algorithms |
-| Lab 07 | Memory management, paging, page replacement algorithms |
-| Lab 08 | File systems, file allocation methods, disk scheduling algorithms |
-| Lab 09 | System calls, shell scripting, and advanced OS concepts |
+| Lab 01 | Command-line argument processing, character handling, standard input/output operations, lowercase-uppercase conversion, non-alphabetic character counting |
+| Lab 02 | System calls, process creation using `fork()`, program execution using `exec()`, inter-process communication using pipes, process synchronization using `wait()`, file descriptor duplication using `dup()` and `dup2()` |
+| Lab 03 | Multithreading using POSIX threads, signal handling, alarms and process termination, `setjmp()` and `longjmp()`, timeout handling using signals, low-level I/O using `read()` and `write()` |
+| Lab 04 | CPU scheduling algorithms including Non-Preemptive SJF and Round Robin scheduling, Gantt chart generation, waiting time and turnaround time calculation |
+| Lab 05 | Process synchronization problems including Producer-Consumer problem and Readers-Writers problem using semaphores, mutexes, and shared memory |
+| Lab 06 | Deadlock detection algorithms, resource allocation matrices, request matrices, process termination strategies for deadlock recovery |
+| Lab 07 | Memory management techniques including First Fit, Best Fit, Worst Fit allocation strategies, fragmentation analysis, and two-level paging system simulation |
+| Lab 08 | Virtual memory management, page replacement algorithms, Least Recently Used (LRU), Second Chance (Clock) algorithm, MMU simulation, page fault handling |
+| Lab 09 | Disk scheduling algorithms including SSTF and SCAN (Elevator Algorithm), disk head movement simulation, seek time calculation |
 
 ---
 
