@@ -2,13 +2,13 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <fcntl.h>
-// #include <sys/mman.h>
+#include <sys/mman.h>
 #include <sys/stat.h>
 #include <semaphore.h>
-// #include <sys/wait.h>
+#include <sys/wait.h>
 
 #define SHM_NAME "/rw_shm"
-/// @brief 
+// / @brief 
 typedef struct {
     int readcount;
     int writecount;
